@@ -1,0 +1,29 @@
+font=JetBrains Mono 12
+width=315
+height=200
+padding=10
+margin=10
+progress-color=over #eceff480
+icon-path=/usr/share/icons/breeze-dark
+max-icon-size=70
+layer=overlay
+border-size=5
+border-radius=20
+default-timeout=5000
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#cba6f7
+progress-color=over #313244
+
+[urgency=high]
+border-color=#fab387
+
+[urgency=low]
+border-color=#cccccc
+
+[urgency=normal]
+border-color=#d08770
+
+[urgency=high]
+border-color=#bf616a
+default-timeout=0
