@@ -1,2 +1,2 @@
 # sebsway
-My sway dotfile
+My sway dotfiles
