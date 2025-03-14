@@ -1,0 +1,2 @@
+# sebsway
+My sway dotfile
