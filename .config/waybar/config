@@ -111,7 +111,7 @@
     "custom/logo": {
         "format": "  ",
         "tooltip": false,
-        "on-click": "fuzzel"
+        "on-click": "nwg-drawer"
     },
     "custom/power": {
         "format": "󰤆",
