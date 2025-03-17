@@ -5,4 +5,5 @@
 # user config directory
 include $HOME/.config/sway/config.d/*
 
-include @sysconfdir@/sway/config.d/*
+#include @sysconfdir@/sway/config.d/*
+include /usr/share/sway/config.d/*

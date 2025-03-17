@@ -58,7 +58,6 @@
         "on-click": "footclient btop"
     },
     "custom/updates": {
-        //"exec": "(checkupdates ; yay -Qu) | wc -l",
         "format": " {}",
         "interval": 300,
         "exec": "checkupdates | wc -l",
